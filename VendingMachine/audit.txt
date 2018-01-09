@@ -1,0 +1,38 @@
+2017-03-09T20:45:57.606 : calculateChange: 1Id:  R6  | name: Ice Cream | Price: 6.90 | amount: 5
+2017-03-09T20:52:53.535 : calculateChange: 10Id:  T4  | name: Cheetos | Price: 5 | amount: 0
+2017-03-09T20:56:03.086 : calculateChange: 1Id:  R6  | name: Ice Cream | Price: 6.90 | amount: 5
+2017-03-10T09:33:04.173 : provideChangeForItemChoice: Insufficient Funds: 2Id:  A2  | name: Cherries | Price: 2.42 | amount: 5
+2017-03-10T10:10:45.612 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T10:17:01.633 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T10:17:57.729 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T10:20:36.825 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T10:20:36.893 : provideChangeForItemChoice: null: 3.00Id:  A5  | name: null | Price: null | amount: 0
+2017-03-10T10:28:16.629 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T10:28:17.088 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T10:36:11.832 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T10:36:12.108 : provideChangeForItemChoice: Item out of stock!: 6.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T10:36:12.481 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T10:36:38.851 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T10:36:39.646 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T10:47:16.432 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T10:47:17.163 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T10:59:23.022 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T10:59:23.913 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T11:00:03.091 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T11:00:04.046 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T11:01:29.986 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T11:01:30.902 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T11:01:57.368 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T11:01:58.479 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-10T11:08:10.275 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-10T11:08:11.238 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-12T19:28:25.896 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-12T19:28:26.639 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-13T09:32:19.645 : provideChangeForItemChoice: Item out of stock!: 10Id:  T4  | name: Cheetos | Price: 5 | amount: 0
+2017-03-13T09:33:49.594 : provideChangeForItemChoice: Insufficient Funds: 1Id:  A2  | name: Cherries | Price: 2.42 | amount: 4
+2017-03-23T14:19:14.296 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-23T14:19:14.836 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-03-23T15:00:47.718 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-03-23T15:00:48.285 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4
+2017-06-13T17:05:41.731 : provideChangeForItemChoice: Item out of stock!: 3.00Id:  A5  | name: coke | Price: 4 | amount: 0
+2017-06-13T17:05:42.156 : provideChangeForItemChoice: Insufficient Funds: 3.00Id:  A5  | name: coke | Price: 4 | amount: 4

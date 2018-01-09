@@ -1,0 +1,4 @@
+T4::Cheetos::5::0
+A2::Cherries::2.42::5
+B3::Almonds::3.40::4
+R6::Ice Cream::6.90::5
